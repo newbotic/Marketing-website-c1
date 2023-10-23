@@ -1,4 +1,4 @@
-# Challenge Guide
+# Challenge Guide ?
 
 Each week, your instructors and TAs will provide a demonstration of the challenge in the classroom.
 
