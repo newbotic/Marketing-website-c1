@@ -1,4 +1,4 @@
-# 01 HTML CSS Git: Code Refactor
+# Marketing Agency Website
 
 ## Your Task
 
@@ -12,7 +12,7 @@ Web accessibility is an increasingly important consideration for businesses. It 
 
 Even though accessibility is a broad topic that can include complex requirements, your tech lead has given you a small list of specific criteria to satisfy the project. These criteria are documented below in the Acceptance Criteria.
 
-**Important**: An important rule to follow when working with someone else's code is the **Scout Rule**, which recommends that you always leave the code a little cleaner than when you found it.
+**Important**: An important rule to follow when working with someone else's code is the **Scout Rule**, which recommends that you always leave the code a little cleaner thanw when you found it.
 
 To impress clients, you should always go the extra mile and improve the codebase for long-term sustainability. For example, make sure that all links are functioning correctly. Also, rework the CSS to make it more efficient by consolidating CSS selectors and properties, organizing them to follow the semantic structure of the HTML elements, and including comments before each element or section of the page.
 
