@@ -14,10 +14,6 @@ starter/assets/css: directory containing CSS stylesheets.
 starter/assets/images: directory for images
 assets: demo image.
 
-# #Screenshot
-
-![screenshot](../Marketing-website-c1/Assets/01-html-css-git-challenge-demo.png)
-
 
 ### User Story
 
@@ -26,7 +22,8 @@ I WANT a codebase that follows accessibility standards
 SO THAT our own site is optimized for search engines
 
 ## Screenshot
-![](Assets\01-html-css-git-challenge-demo.png)
+![screenshot](marketing-website-c1/Assets
+/01-html-css-git-challenge-demo.png)
 
 ## The link where the app is deploied
 https://newbotic.github.io/marketing-website-c1/
