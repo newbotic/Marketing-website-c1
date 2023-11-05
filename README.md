@@ -14,6 +14,10 @@ starter/assets/css: directory containing CSS stylesheets.
 starter/assets/images: directory for images
 assets: demo image.
 
+# #Screenshot
+
+![screenshot](../Marketing-website-c1/Assets/01-html-css-git-challenge-demo.png)
+
 
 ### User Story
 
@@ -29,3 +33,5 @@ https://newbotic.github.io/marketing-website-c1/
 
 ## License
 Please refer to the LICENSE in the repo.
+
+[def]: ../Marketing-website-c1/Assets/01-html-css-git-challenge-demo.png
