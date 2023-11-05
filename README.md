@@ -22,8 +22,7 @@ I WANT a codebase that follows accessibility standards
 SO THAT our own site is optimized for search engines
 
 ## Screenshot
-![screenshot](marketing-website-c1/Assets
-/01-html-css-git-challenge-demo.png)
+![screenshot](../Marketing-website-c1/Assets/01-html-css-git-challenge-demo.png)
 
 ## The link where the app is deploied
 https://newbotic.github.io/marketing-website-c1/
